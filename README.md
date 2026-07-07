@@ -50,9 +50,13 @@ git clone https://github.com/yourusername/music-player.git
 ```
 
 ---
-
 ## 📸 Screenshots
 
+![Screenshot 1](screenshots/Screenshot%202026-07-07%20113915.png)
+![Screenshot 2](screenshots/Screenshot%202026-07-07%20113942.png)
+![Screenshot 3](screenshots/Screenshot%202026-07-07%20113955.png)
+![Screenshot 4](screenshots/Screenshot%202026-07-07%20114014.png)
+![Screenshot 5](screenshots/Screenshot%202026-07-07%20115104.png)
 > 
 
 ## 📄 License
